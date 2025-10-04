@@ -10,11 +10,24 @@ This is my journal of the design and building process of **midi**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/51).
 
 
-## 10/4/2025 - Downloaded KiCad and created project  
+## 10/4/2025 6 AM - Downloaded KiCad and created project  
 
 Literally what the title says: (re) Downloaded KiCad because updates and created project as a folder.
 This took a very insignificant amount of time but since I'm gonna continue everything else later I'll keep the journal separate. 
 Did not encounter any difficulties since the project hasn't really started yet. 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjk2LCJwdXIiOiJibG9iX2lkIn19--ba0fd61814c659594c147dee68a3a928734e4f33/image.png)
+  
+
+## 10/4/2025 8 PM - Added pico and switch matrix to schematic  
+
+first part:
+added raspberry pi pico to schematic and connected power and ground. 
+setup backbone of switch matrix aka just the side of the switch matrix. 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzM4LCJwdXIiOiJibG9iX2lkIn19--cba4e3e2b3d8fd39c3cafcf3d74c029e706b1bdc/image.png) 
+
+second part:
+filled in the rest of the switch matrix and renamed all of the switches and diodes so that all the numbers are in order. 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDExLCJwdXIiOiJibG9iX2lkIn19--a368cf3ab37e70f42ce09a8166ee224c1d33ff54/image.png)
+
   
 
