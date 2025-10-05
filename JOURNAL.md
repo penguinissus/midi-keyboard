@@ -31,3 +31,18 @@ filled in the rest of the switch matrix and renamed all of the switches and diod
 
   
 
+## 10/5/2025 - Added rotary encoders  
+
+I Added rotary encoders to the schematic. 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDg4LCJwdXIiOiJibG9iX2lkIn19--e74e6cea81a7ee3f7bb12c3a18a87afa1654217a/image.png)
+
+Connected rotary encoders to switch matrix
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDE1LCJwdXIiOiJibG9iX2lkIn19--a42c4a98978fcc044d5a27898c0db38dd0545eaa/image.png)
+Problem encountered:
+Realized I may or may not have misinterpreted instructions so I asked for help in #blueprint-support
+Fixed and tidied up the way I connected rotary encoders to the matrix:
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDc4LCJwdXIiOiJibG9iX2lkIn19--bb86e34bf2116a4e1e7d0b71bccbf79f72dda240/image.png)
+
+Labeled all the pins on pico
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDgxLCJwdXIiOiJibG9iX2lkIn19--8e3b0e185e5aa2604972b6a06dc1567aef7ded4d/image.png)  
+
