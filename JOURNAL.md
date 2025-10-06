@@ -46,3 +46,14 @@ Fixed and tidied up the way I connected rotary encoders to the matrix:
 Labeled all the pins on pico
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDgxLCJwdXIiOiJibG9iX2lkIn19--8e3b0e185e5aa2604972b6a06dc1567aef7ded4d/image.png)  
 
+## 10/6/2025 - Connected everything to pico + annotation  
+
+Connected LCD to raspberry pi pico. 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDkwLCJwdXIiOiJibG9iX2lkIn19--72b3bfb9bd491bda446926f508a5016f31f5bf2b/image.png)
+
+Annotated the entire schematic to separate each section (such as switch matrix, lcd, and rotary encoders), added descriptions of how things work and name of parts to each section. 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Njc0LCJwdXIiOiJibG9iX2lkIn19--b7be258ef342ecd38b1090a8bbe94977ee764d03/image.png)
+
+Added a reset button to the raspberry pi pico. 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Njc1LCJwdXIiOiJibG9iX2lkIn19--582621cdbe4b9dcb94939090b176c2c31a79c117/image.png)  
+
