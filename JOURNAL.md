@@ -57,3 +57,9 @@ Annotated the entire schematic to separate each section (such as switch matrix, 
 Added a reset button to the raspberry pi pico. 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Njc1LCJwdXIiOiJibG9iX2lkIn19--582621cdbe4b9dcb94939090b176c2c31a79c117/image.png)  
 
+## 10/7/2025 - Remade switch matrix with actual plan this time  
+
+Realized I forgot to account for all the different kinds of buttons on the original switch matrix so I redid the switch matrix. Labeled the matrix so that it specifies what each button is for. Current plan includes 2 full octaves + 8 semitones, 8 user buttons, and the labels that connect to the rotary encoders. 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTcxLCJwdXIiOiJibG9iX2lkIn19--f8aeeb6495d8290fd0b63774d802ed983eb7297c/image.png)
+  
+
