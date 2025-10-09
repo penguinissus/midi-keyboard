@@ -63,3 +63,11 @@ Realized I forgot to account for all the different kinds of buttons on the origi
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTcxLCJwdXIiOiJibG9iX2lkIn19--f8aeeb6495d8290fd0b63774d802ed983eb7297c/image.png)
   
 
+## 10/9/2025 - Assigned footprints & PCB layout for keyboard  
+
+I assigned all of the footprints for the midi keyboard following the tutorial but there are problems I encountered and will ask in #blueprint-support. 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--c0fb619a95fd3b8c0e2d4b23147abf64d5f23930/image.png)
+
+Finished layout of the keyboard part of the PCB. I made a 2.5 octave keyboard because I had extra spots left in the switch matrix. 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--6febee414d7c258813afdca25408355fbb85104a/image.png)  
+
